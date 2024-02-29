@@ -27,6 +27,8 @@
 ## Statics about me:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aldayar-Abd&theme=solarized_dark)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=There+coming+new+repositories)](https://git.io/typing-svg)  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%bf8bff&lines=Soon..............)](https://git.io/typing-svg)
 ### Thank you for reading my file. Here was simple information about me. I hope that i will tell about my self more on my telegram or email.
 ---
 <p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> </p>
